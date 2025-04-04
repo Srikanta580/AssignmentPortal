@@ -1,0 +1,15 @@
+D:\Major\AssignmentPortal\server\src\main\java\in\sp\main\controller\controller.java
+D:\Major\AssignmentPortal\server\src\main\java\in\sp\main\controller\StudentController.java
+D:\Major\AssignmentPortal\server\src\main\java\in\sp\main\dao\StudentDao.java
+D:\Major\AssignmentPortal\server\src\main\java\in\sp\main\model\AcademicProject.java
+D:\Major\AssignmentPortal\server\src\main\java\in\sp\main\model\AssignmentSubmission.java
+D:\Major\AssignmentPortal\server\src\main\java\in\sp\main\model\ContinuousAssesment.java
+D:\Major\AssignmentPortal\server\src\main\java\in\sp\main\model\Doubt.java
+D:\Major\AssignmentPortal\server\src\main\java\in\sp\main\model\Faculty.java
+D:\Major\AssignmentPortal\server\src\main\java\in\sp\main\model\ProjectSubmission.java
+D:\Major\AssignmentPortal\server\src\main\java\in\sp\main\model\Student.java
+D:\Major\AssignmentPortal\server\src\main\java\in\sp\main\model\StudyMaterial.java
+D:\Major\AssignmentPortal\server\src\main\java\in\sp\main\model\Subject.java
+D:\Major\AssignmentPortal\server\src\main\java\in\sp\main\model\Task.java
+D:\Major\AssignmentPortal\server\src\main\java\in\sp\main\ServerApplication.java
+D:\Major\AssignmentPortal\server\src\main\java\in\sp\main\service\StudentService.java
